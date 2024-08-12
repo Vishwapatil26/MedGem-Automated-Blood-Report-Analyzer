@@ -1,0 +1,12 @@
+prefix=d:/New folder/MedGem/venv/Library
+exec_prefix=d:/New folder/MedGem/venv/Library
+libdir=d:/New folder/MedGem/venv/Library/lib
+includedir=d:/New folder/MedGem/venv/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.39
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz
+Cflags: -I${includedir}
