@@ -1,4 +1,5 @@
 **Overview**
+
 MedGem is a powerful tool designed to automate the extraction and interpretation of data from medical blood reports. The project was developed as part of the Gemini API Competition. It utilizes advanced AI models to analyze medical images, particularly blood reports, and provide relevant health advice based on the extracted data.
 
 **Key Features**
